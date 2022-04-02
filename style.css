@@ -156,12 +156,4 @@ section.followers_container h1{
         overflow: clip;
         border: 5px solid white;
     }
-    hr{
-        margin: 2em 0;
-    }
-    section.identity{
-        display: flex;
-        flex-direction: column;
-        margin-top: 80px;
-    }
 }
